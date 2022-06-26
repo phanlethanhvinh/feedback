@@ -25,7 +25,7 @@ function firstQuestion(){
         imageUrl: 'img/lookMe.jpg',
         imageWidth: 300,
         imageHeight: 300,
-        background: '#fff url("img/bg.webp")',
+        background: '#fff url("img/abcd.png")',
         imageAlt: 'Custom image',
         confirmButtonText: CONFIG.btnIntro
       }).then(function(){
