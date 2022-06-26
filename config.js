@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'Không',
     question:'Lí do bạn thích các sản phẩm của Taviny?',
     btnReply: 'Gửi cho Taviny',
-    reply: 'Vì các sản phẩm của Taviny rất xịn xò kkk',
+    reply: 'Vì các sản phẩm của Taviny rất xịn xò kkkkkkkkk',
     mess: 'Cảm ơn feedback của bạn!',
     messDesc: 'TavinyⓇ',
     btnAccept: 'Trở về trang chủ',
